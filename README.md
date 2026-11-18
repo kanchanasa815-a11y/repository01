@@ -7,7 +7,7 @@ Computer Science Student
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=kanchanasa815-a11y&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kanchanasa815-a11y&theme=shadow_red&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchanasa815-a11y&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
